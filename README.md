@@ -30,5 +30,9 @@ During testing, I noticed the first version asked users multiple questions at on
 
 This project gave me hands-on practice with Gemini Gems, prompt engineering, AI testing, and IT troubleshooting workflows.
 
+Screenshots
+
+<img width="858" height="378" alt="Screenshot 2026-09-04 at 5 33 11 PM" src="https://github.com/user-attachments/assets/54759f22-2d93-4f02-b431-666ad0001789" /><img width="858" height="378" alt="Screenshot 2026-09-04 at 5 33 11 PM" src="https://github.com/user-attachments/assets/be20b2ed-cd38-46cb-9ca4-b32178fb20ec" />
+<img width="1" height="2" alt="Screenshot 2026-09-04 at 5 32 49 PM" src="https://github.com/user-attachments/assets/8e6ce2ac-bcf9-4240-9b7b-9ce2b45a08ad" />
 
 

@@ -30,5 +30,5 @@ During testing, I noticed the first version asked users multiple questions at on
 
 This project gave me hands-on practice with Gemini Gems, prompt engineering, AI testing, and IT troubleshooting workflows.
 
-## Future Improvements
+
 
